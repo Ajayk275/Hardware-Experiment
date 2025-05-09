@@ -21,9 +21,11 @@
 ![WhatsApp Image 2025-05-01 at 22 46 03_07548186](https://github.com/user-attachments/assets/e5509c89-bd86-4ce8-963a-7621ecf90e3b)
 
 ## Huffman & Shannon-Fano
-![image](https://github.com/user-attachments/assets/cb6838ab-83f0-4f90-a4b9-93ade6d50230)
+![439668213-cb6838ab-83f0-4f90-a4b9-93ade6d50230](https://github.com/user-attachments/assets/b36e99e1-2505-4782-b208-f4b215733531)
+
 ![image](https://github.com/user-attachments/assets/ec2d5045-2576-47d1-b6af-dc0990674015)
 
 ## LBC
-![image](https://github.com/user-attachments/assets/855fbf52-a512-4bcb-a906-89a08e8ec95f)
+![439668455-855fbf52-a512-4bcb-a906-89a08e8ec95f](https://github.com/user-attachments/assets/a0e2fe5c-7611-4e2e-8565-efe40816d2eb)
+
 ![image](https://github.com/user-attachments/assets/eb33a064-17a4-48be-b8a6-960248deccf5)
